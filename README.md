@@ -79,6 +79,7 @@ TASK 3: Give examples of applications that are using the data structure type and
 TASK 4: Research how data structures and algorithms work within systems.
 
 Data Structures and Algorithms is the driving force behind every modern system in the following ways:
+
 1.Operating Systems - Queues are used for process scheduling (Round Robin Scheduling). Stack is used in function calls.
 2.Databases - B-Trees (special trees) are used for indexing, so queries are done in log time, rather than scanning the whole database.
 3.Networks - Graphs are used for routing (shortest path). Queues are used for buffering.
